@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: f28f065c235c5794da30aeedcf43c09f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2041.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332605cf456cf94fb977ff5877eab34
+      internalID: 897481188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2041.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011cc828957fca64c8b1941436a1b6fe
+      internalID: -2022508218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2041.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef725a69ca3a02d48a17311e1e9f2ef7
+      internalID: 1743776131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2041.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3943a6d2798a1343aa145e772c067cc
+      internalID: 1311060261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1786.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e81cabd2fc96343a62c404bbe66c0f
+      internalID: 1928354329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1786.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0c587bd64bf543bb0c6a1ad722bee
+      internalID: -671797845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1786.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35f9bb06c9aef349b0e0a543cc5dc40
+      internalID: 1116224879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1786.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868d5685d6471d42a273e5a50484d9c
+      internalID: 86822952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1531.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a21edd7d9fd594695f8acc612a28f2
+      internalID: 984010525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1531.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d342c2fc449604eab24b8530d4b101
+      internalID: -1681690914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1531.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b663c1ce95eda740808db16d4256c6f
+      internalID: 1190814983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1531.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88960bed61407fc4786acf485a997481
+      internalID: -36467256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1276.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ba49ca11147546a97fc71a6fd8c22
+      internalID: 1310825972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1276.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844ebcd32be8c6f4895e9a78a050a724
+      internalID: -155592632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1276.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f94604c6fc1ea445bc167cd00c36db5
+      internalID: 470335815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1276.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedaf4ac4b879f4419ae42fb8b806ffe
+      internalID: -1485728803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d43ec0fd949b047b7ed69caabe90bb
+      internalID: 1037019747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1021.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6691f3e79cfcd34abe6c2a069ab0f1b
+      internalID: 490327696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1021.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ef4b956eea054d978374233edbc97
+      internalID: -2002763728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1021.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cdf25ab2e01a44a820f5b0e47f3634
+      internalID: 962772415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293683fd81ebf264a92fb2aa22079a56
+      internalID: 1653383474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 766.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0b284881138774d90b85e6811413bd
+      internalID: -1955903548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 766.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8900198c5ffed6d48a6b88a585c32d39
+      internalID: -2126112747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 766.7778
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f702518cec9a1884188ce02577feb4db
+      internalID: -1490024625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ee414b24188040bde61fa2852b21e
+      internalID: -793855650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 511.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ce5a78b4138154e9a58e111d882460
+      internalID: 571404247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 511.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131f77c1dcda1b4ebd5493687f86ca5
+      internalID: 689510726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 511.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fe5159e08d9942860696f6b0de360
+      internalID: -1913491921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb060a681df9245a04e091881b8662
+      internalID: 702398443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e8e96acadcc5439cfe85aab7f6c28
+      internalID: 58633585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d845664cd8d63e74aa7afaad2d8c648d
+      internalID: -321810252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256.77777
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac746c26de55b54c957262ce9efd48a
+      internalID: 1503652620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.777771
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da05c4232bd8b4294219204c96dbcb
+      internalID: 955001095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1.777771
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701cab0262050034e83b0716709022aa
+      internalID: -753478548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1.777771
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7964812fa265c459fde7a46938748d
+      internalID: -2015314964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gudao Chaldea standar size sheet_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1.777771
+        width: 256
+        height: 255.22223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507ca5bdb0fd3143b91b02e40de0ec4
+      internalID: -1883962214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gudao Chaldea standar size sheet_0: 897481188
+      Gudao Chaldea standar size sheet_1: -2022508218
+      Gudao Chaldea standar size sheet_10: 1190814983
+      Gudao Chaldea standar size sheet_11: -36467256
+      Gudao Chaldea standar size sheet_12: 1310825972
+      Gudao Chaldea standar size sheet_13: -155592632
+      Gudao Chaldea standar size sheet_14: 470335815
+      Gudao Chaldea standar size sheet_15: -1485728803
+      Gudao Chaldea standar size sheet_16: 1037019747
+      Gudao Chaldea standar size sheet_17: 490327696
+      Gudao Chaldea standar size sheet_18: -2002763728
+      Gudao Chaldea standar size sheet_19: 962772415
+      Gudao Chaldea standar size sheet_2: 1743776131
+      Gudao Chaldea standar size sheet_20: 1653383474
+      Gudao Chaldea standar size sheet_21: -1955903548
+      Gudao Chaldea standar size sheet_22: -2126112747
+      Gudao Chaldea standar size sheet_23: -1490024625
+      Gudao Chaldea standar size sheet_24: -793855650
+      Gudao Chaldea standar size sheet_25: 571404247
+      Gudao Chaldea standar size sheet_26: 689510726
+      Gudao Chaldea standar size sheet_27: -1913491921
+      Gudao Chaldea standar size sheet_28: 702398443
+      Gudao Chaldea standar size sheet_29: 58633585
+      Gudao Chaldea standar size sheet_3: 1311060261
+      Gudao Chaldea standar size sheet_30: -321810252
+      Gudao Chaldea standar size sheet_31: 1503652620
+      Gudao Chaldea standar size sheet_32: 955001095
+      Gudao Chaldea standar size sheet_33: -753478548
+      Gudao Chaldea standar size sheet_34: -2015314964
+      Gudao Chaldea standar size sheet_35: -1883962214
+      Gudao Chaldea standar size sheet_4: 1928354329
+      Gudao Chaldea standar size sheet_5: -671797845
+      Gudao Chaldea standar size sheet_6: 1116224879
+      Gudao Chaldea standar size sheet_7: 86822952
+      Gudao Chaldea standar size sheet_8: 984010525
+      Gudao Chaldea standar size sheet_9: -1681690914
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

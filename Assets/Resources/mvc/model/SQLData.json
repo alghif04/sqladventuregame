@@ -1,0 +1,14 @@
+[
+    {
+        "index": 0,
+        "query": "SELECT * FROM DESA",
+        "tableData": "idDesa\t| namaDesa\t| jumlahPenduduk\n01\t| desa 1\t| 40",
+        "tableImage": "Images/Table1" 
+    },
+    {
+        "index": 1,
+        "query": "DROP TABLE students;",
+        "tableData": "Table 'students' dropped.",
+        "tableImage": "Images/Table2" 
+    }
+]
